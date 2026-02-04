@@ -65,3 +65,6 @@ How to Run the Project
 --bash
 -pip install streamlit numpy scikit-learn
 -streamlit run app.py
+
+**Author**
+**Yanshika singh**
